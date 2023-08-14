@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+*.pyo
+*.egg-info/
+*.log
+
+# If using git
+.git/
+
+# Other
+.DS_Store
