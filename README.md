@@ -17,5 +17,10 @@ Models used:
 - Random Forest
   - Option to toggle max_depth and number of trees
 
+---
+
+### Showcase
+
 ![Image 1 Description](images/image_1.png)
+
 ![Image 2 Description](images/image_2.png)
